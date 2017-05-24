@@ -1,22 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Gist
- @ssin122
- Sign out
- Watch 23
-  Star 147
-  Fork 57 christophergandrud/d3Network
- Code  Issues 11  Pull requests 0  Projects 0  Wiki Insights 
-Branch: sankey Find file Copy pathd3Network/JSONdata/energy.json
-60af9c0  on Sep 9, 2013
-@christophergandrud christophergandrud example energy data set
-1 contributor
-RawBlameHistory     
-121 lines (120 sloc)  3.98 KB
 {"nodes":[
 {"name":"Agricultural 'waste'"},
 {"name":"Bio-conversion"},
