@@ -33,6 +33,8 @@
 {"source":2,"target":4,"value":222},
 {"source":2,"target":5,"value":117},
 {"source":2,"target":6,"value":62},
+{"source":7,"target":8,"value":62},
+{"source":7,"target":9,"value":62},
 {"source":7,"target":10,"value":62},
 {"source":6,"target":8,"value":80}
 ]}
