@@ -12,5 +12,26 @@
 {"name":"Section 3.2","node":9,"color":"#f3bd4e","month":"Module 3","departing":0,"joining":0},
 {"name":"Section 3.3","node":10,"color":"#5089a8","month":"Module 3","departing":0,"joining":0}
 ],
+
 "links":[
+{"source":3,"target":4,"value":112},
+{"source":3,"target":5,"value":249},
+{"source":3,"target":6,"value":93},
+{"source":3,"target":7,"value":52},
+{"source":4,"target":8,"value":6},
+{"source":4,"target":9,"value":12},
+{"source":4,"target":10,"value":5},
+{"source":5,"target":8,"value":194},
+{"source":5,"target":9,"value":202},
+{"source":5,"target":10,"value":36},
+{"source":0,"target":4,"value":70},
+{"source":0,"target":5,"value":131},
+{"source":0,"target":6,"value":145},
+{"source":1,"target":6,"value":163},
+{"source":1,"target":5,"value":172},
+{"source":1,"target":4,"value":179},
+{"source":2,"target":4,"value":222},
+{"source":2,"target":5,"value":117},
+{"source":2,"target":6,"value":62},
+{"source":6,"target":8,"value":80}
 ]}
