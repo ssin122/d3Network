@@ -17,7 +17,6 @@
 {"source":3,"target":4,"value":112},
 {"source":3,"target":5,"value":249},
 {"source":3,"target":6,"value":93},
-{"source":3,"target":7,"value":52},
 {"source":4,"target":8,"value":6},
 {"source":4,"target":9,"value":12},
 {"source":4,"target":10,"value":5},
@@ -36,5 +35,6 @@
 {"source":7,"target":8,"value":62},
 {"source":7,"target":9,"value":62},
 {"source":7,"target":10,"value":62},
+{"source":3,"target":7,"value":52},
 {"source":6,"target":8,"value":80}
 ]}
