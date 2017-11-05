@@ -1,6 +1,6 @@
 date,delay,distance,origin,destination,m_from,m_to,s_from,s_to,time_spent,confusing,help,negative,positive,interesting,important,userid,session
 01010001,14,405,MCI,MDW,M1,M2,S1,S2,3,2,1,3,0,0,0,U01,S_01
-01050540,-7,389,ONT,SMF,M1,M2,S2,S3,5,0,1,1,7,5,2,U01,S_01
+01050540,-7,389,ONT,SMF,M1,M2,S2,S3,5,0,1,1,5,5,0,U01,S_01
 01082150,-15,313,MCI,OKC,M1,M2,S3,S4,7,0,0,0,2,2,0,U01,S_01
 01121915,33,611,MDW,BWI,M2,M3,S4,S1,8,0,0,0,3,3,0,U01,S_01
 01161825,5,371,SNA,OAK,M2,M3,S1,S2,3,2,1,3,0,0,0,U01,S_01
